@@ -1,0 +1,46 @@
+.navbar{
+    background-color: #500000;
+    margin-bottom: 15px;
+}
+
+a {
+    color: white;
+    transition: color 400ms;
+}
+
+a:hover {
+    color: grey;
+}
+
+a.navbar-brand:hover {
+    color: white;
+}
+
+#footer {
+    background-color: #500000;
+    padding: 10px;
+    color: white;
+}
+
+#heading {
+    Margin-bottom: 10px;
+}
+
+.weelements {
+    margin-bottom: 30px;
+}
+
+.card {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: #500000;
+    height:100;
+}
+
+.bottompage {
+    margin-bottom: 100px;
+}
+
+.readmore {
+    color: black;
+}
